@@ -1,4 +1,3 @@
 # Teste
  Apenas um teste
-
-# commit
+Conflito2
