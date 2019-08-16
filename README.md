@@ -1,4 +1,3 @@
 # Teste
  Apenas um teste
-
-Conflito1
+Conflito2
