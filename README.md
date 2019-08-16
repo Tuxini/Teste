@@ -1,4 +1,4 @@
 Teste
 Apenas um teste
-Conflito2
+Com Conflito
 Branch
